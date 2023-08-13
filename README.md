@@ -24,7 +24,7 @@ In this curriculum, you will learn:
 * **Neural Networks** and **Deep Learning**, which are at the core of modern AI. We will illustrate the concepts behind these important topics using code in two of the most popular frameworks - [TensorFlow](http://Tensorflow.org) and [PyTorch](http://pytorch.org).
 * **Neural Architectures** for working with images and text. We will cover recent models but may lack a little bit on the state-of-the-art.
 * Less popular AI approaches, such as **Genetic Algorithms** and **Multi-Agent Systems**.
-
+2023/0813
 What we will not cover in this curriculum:
 
 * Business cases of using **AI in Business**. Consider taking [Introduction to AI for business users](https://docs.microsoft.com/learn/paths/introduction-ai-for-business-users/?WT.mc_id=academic-77998-cacaste) learning path on Microsoft Learn, or [AI Business School](https://www.microsoft.com/ai/ai-business-school/?WT.mc_id=academic-77998-cacaste), developed in cooperation with [INSEAD](https://www.insead.edu/).
